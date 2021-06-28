@@ -1,0 +1,7 @@
+C:\Users\Leonal\source\repos\tarea7\bin\Debug\tarea7.exe.config
+C:\Users\Leonal\source\repos\tarea7\bin\Debug\tarea7.exe
+C:\Users\Leonal\source\repos\tarea7\bin\Debug\tarea7.pdb
+C:\Users\Leonal\source\repos\tarea7\obj\Debug\tarea7.csprojAssemblyReference.cache
+C:\Users\Leonal\source\repos\tarea7\obj\Debug\tarea7.csproj.CoreCompileInputs.cache
+C:\Users\Leonal\source\repos\tarea7\obj\Debug\tarea7.exe
+C:\Users\Leonal\source\repos\tarea7\obj\Debug\tarea7.pdb
